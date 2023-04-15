@@ -18,6 +18,9 @@ header .heade{
 h1{
     font-size: 50px;
 }
+a{
+    color: blue;
+}
 .linke{
     color: blue;
     float: right;
